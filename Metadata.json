@@ -1,0 +1,20 @@
+{
+    "Author": "Ruchira Dutta",
+    "ContentSize": 7252,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/restoring-sql-azure-databases-across-subscriptions/master/Restore-AzureDB.ps1",
+    "DownloadCount": 3369,
+    "Id": "Restoring-SQL-Azure-582d6cde",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 157,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-3-2T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Restoring SQL Azure databases across subscriptions is an unreliable and time consuming process. As part of the cloud adoption strategy, to help the ongoing projects, we need a fast track and an efficient way to restore our databases across subscriptions.",
+    "Title": "Restoring SQL Azure databases across subscriptions",
+    "UpdatedDate": "2015-10-6T00:00:00",
+    "Url": "https://github.com/azureautomation/restoring-sql-azure-databases-across-subscriptions",
+    "UserTags": "backup, Windows Azure SQL Database, Dev / Test Environments"
+}
